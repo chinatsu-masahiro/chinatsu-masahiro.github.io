@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 私たち事実婚しました
 
 You can use the [editor on GitHub](https://github.com/chinatsu-masahiro/chinatsu-masahiro.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
